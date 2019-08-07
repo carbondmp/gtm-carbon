@@ -182,8 +182,6 @@ ___WEB_PERMISSIONS___
 
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
-const setInWindow = require('setInWindow');
-const copyFromWindow = require('copyFromWindow');
 const createArgumentsQueue = require('createArgumentsQueue');
 const injectScript = require('injectScript');
 const parentId = data.parentid;
