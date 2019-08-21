@@ -184,7 +184,8 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 const createArgumentsQueue = require('createArgumentsQueue');
 const injectScript = require('injectScript');
-const parentId = data.parentid;
+const encodeUriComponent = require('encodeUriComponent');
+const parentId = encodeUriComponent(data.parentid);
 const cca = createArgumentsQueue('cca', 'cca.q');
 const getUrl = require('getUrl');
 let site = getUrl('host', false);
