@@ -1,0 +1,5 @@
+homepage: "carbondmp.com",
+documentation: "https://docs.carbondmp.com/",
+versions:
+  - sha: 08d4e166f61aaa33fcee36486b5bfd2b5f6e2e77
+    changeNotes: Initial Release
