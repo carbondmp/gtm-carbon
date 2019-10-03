@@ -9,7 +9,7 @@ ___INFO___
 
 {
   "displayName": "Carbon",
-  "description": "Carbon is a data management platform that understands customer behaviour and intent",
+  "description": "Carbon is an AI driven Data Management Platform that matches online customer behaviour and scored intent to create highly valuable audience segments, fuelling more profitable outcomes. Carbon processes billions of monthly customer signals that can be segmented and activiated in realtime across multiple channels for publishers and marketers to drive revenue.",
   "categories": ["ANALYTICS", "ADVERTISING", "MARKETING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
